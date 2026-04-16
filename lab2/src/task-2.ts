@@ -1,6 +1,5 @@
 import { VARIANT } from "./config";
 
-// Типы
 type Status = "todo" | "in_progress" | "done" | "cancelled";
 type Priority = "low" | "medium" | "high" | "critical";
 
