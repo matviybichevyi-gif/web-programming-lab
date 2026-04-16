@@ -1,1 +1,1 @@
-export const VARIANT: number = 12;
+export const VARIANT: number = 29;
