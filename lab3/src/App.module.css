@@ -1,0 +1,8 @@
+.app {
+  padding: 20px;
+}
+
+.layout {
+  display: flex;
+  gap: 20px;
+}
