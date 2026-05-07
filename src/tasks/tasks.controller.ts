@@ -8,7 +8,7 @@ import {
   Query,
 } from "@nestjs/common";
 
-import { Task } from "./entities/task.entity";
+import type { Task } from "./entities/task.entity";
 import { CreateTaskDto } from "./dto/create-task.dto";
 
 @Controller("tasks")

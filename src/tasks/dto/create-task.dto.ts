@@ -1,5 +1,5 @@
 export class CreateTaskDto {
-  title: string;
+  title!: string;
   description?: string;
-  priority: "low" | "medium" | "high";
+  priority!: "low" | "medium" | "high";
 }
